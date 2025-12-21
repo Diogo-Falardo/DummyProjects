@@ -30,3 +30,5 @@ Thumbs.db
 
 # Node (caso seu HTML/JS use npm)
 node_modules/
+
+/generated/prisma
